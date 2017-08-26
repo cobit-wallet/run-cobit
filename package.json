@@ -1,0 +1,17 @@
+{
+  "name": "cobit",
+  "version": "0.1.2",
+  "description": "",
+  "author": "The Cobit Developers",
+  "license": "MIT",
+  "bin": {
+    "cobit": "./start.sh"
+  },
+  "scripts": {
+    "install": "./install.sh",
+    "start": "./start.sh"
+  },
+  "dependencies": {
+    "fs-extra": "^4.0.1"
+  }
+}
